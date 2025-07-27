@@ -1,0 +1,14 @@
+/.lake
+
+# Lean / Lake build artifacts
+/build
+/lake-packages
+lake-manifest.json
+
+# Editor-specific files
+/.vscode/
+/.idea/
+*.olean
+*.ilean
+*.c
+*.o
